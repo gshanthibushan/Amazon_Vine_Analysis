@@ -26,7 +26,7 @@ Also, I have used PySpark, Pandas, or SQL to determine if there is any bias towa
 
 ## Deliverable 2: Determine Bias of Vine Reviews 
 #### How many Vine reviews and non-Vine reviews were there?
-  * Total Reveiw - 25,904
+  * Total review - 25,904
   * Total Vine review - 463
   * Total Non-Vine review - 25,094
 
@@ -37,23 +37,23 @@ Also, I have used PySpark, Pandas, or SQL to determine if there is any bias towa
 ![image](https://user-images.githubusercontent.com/79486450/122700524-70001100-d219-11eb-92d0-ffe774bb2d33.png)
 
 #### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-  * Total Fiver Star Reveiw - 12,235
+  * Total Fiver Star review - 12,235
   * Total Fiver Star Vine review - 202
   * Total Fiver Star Non-Vine review - 12,033
   
 ![image](https://user-images.githubusercontent.com/79486450/122700465-56f76000-d219-11eb-9627-ab8712f878bb.png)
 
 #### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-  * Percentage of Vine reviews were 5 stars - 43.63%
-  * Percentage of Vine reviews were 5 stars - 47.95%
+  * Percentage of Vine reviews were 5 stars comparing to total Vine review - 43.63%
+  * Percentage of Non-Vine reviews were 5 stars comparing to total non-Vine review - 47.95%
 
 ![image](https://user-images.githubusercontent.com/79486450/122702694-ebfc5800-d21d-11eb-854a-e80409cd13e4.png)
 
 ## Summary: 
-Only 43.63% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 47.95%. 
-This describes a positivity bias for reviews in the Vine program.
+Based on the baby product analysis there is a positivity bias in the Vine program.  The reason is percentage of Vine reviews were 5 stars comparing to total Vine review is 43.63% and percentage of non-Vine reviews were 5 stars comparing to total non-Vine review - 47.95%.
 
-Additionally we could analyse within the 5 stars review how many were Vine & non-vine:
+
+Additionally, we could analyse within the 5 stars review how many were Vine & non-Vine:
  * Percentage of Vine reviews were 5 stars - 1.65%
- * Percentage of Vine reviews were 5 stars - 98.3%
+ * Percentage of Non-Vine e reviews were 5 stars - 98.3%
 ![image](https://user-images.githubusercontent.com/79486450/122700492-624a8b80-d219-11eb-9013-8f6efef8bf8d.png)
