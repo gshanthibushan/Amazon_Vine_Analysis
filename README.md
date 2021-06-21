@@ -44,10 +44,16 @@ Also, I have used PySpark, Pandas, or SQL to determine if there is any bias towa
 ![image](https://user-images.githubusercontent.com/79486450/122700465-56f76000-d219-11eb-9627-ab8712f878bb.png)
 
 #### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-  * Percentage of Vine reviews were 5 stars - 1.65%
-  * Percentage of Vine reviews were 5 stars - 98.3%
+  * Percentage of Vine reviews were 5 stars - 43.63%
+  * Percentage of Vine reviews were 5 stars - 47.95%
 
-![image](https://user-images.githubusercontent.com/79486450/122700492-624a8b80-d219-11eb-9013-8f6efef8bf8d.png)
+![image](https://user-images.githubusercontent.com/79486450/122702694-ebfc5800-d21d-11eb-854a-e80409cd13e4.png)
 
 ## Summary: 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+Only 43.63% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 47.95%. 
+This describes a positivity bias for reviews in the Vine program.
+
+Additionally we could analyse within the 5 stars review how many were Vine & non-vine:
+ * Percentage of Vine reviews were 5 stars - 1.65%
+ * Percentage of Vine reviews were 5 stars - 98.3%
+![image](https://user-images.githubusercontent.com/79486450/122700492-624a8b80-d219-11eb-9013-8f6efef8bf8d.png)
